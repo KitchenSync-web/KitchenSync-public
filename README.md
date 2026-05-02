@@ -11,7 +11,7 @@ Project by: Montserrad Fallas Ruiz, Diego Osorio, and Shenna Tawiah
 
 Watch a short demo of KitchenSync here:
 
-[KitchenSync Demo Video](PASTE-YOUR-DEMO-VIDEO-LINK-HERE)
+[KitchenSync Demo Video](https://youtu.be/pwZSwZchbkU)
 
 ---
 ## Features

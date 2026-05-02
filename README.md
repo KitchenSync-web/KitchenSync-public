@@ -7,7 +7,13 @@ KitchenSync was built with React Native, Expo, Firebase Authentication, and Fire
 Project by: Montserrad Fallas Ruiz, Diego Osorio, and Shenna Tawiah
 
 ---
+## Demo Video
 
+Watch a short demo of KitchenSync here:
+
+[KitchenSync Demo Video](PASTE-YOUR-DEMO-VIDEO-LINK-HERE)
+
+---
 ## Features
 
 - Create an account, initial email verification, and log in
